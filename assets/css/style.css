@@ -1,0 +1,33 @@
+.body{
+	background-image: url("https://space-facts.com/wp-content/uploads/magellanic-clouds.png");
+}
+.jumbotron{
+	background-image: url("https://upload.wikimedia.org/wikipedia/commons/6/67/The_X-Files_logo.svg");
+	background-repeat: no-repeat;
+	margin-left: 8%;
+	margin-right: 8%;
+}
+.display-3{
+	text-align: right;
+	padding-top: 4.6%;
+}
+.container{
+	border-style: dotted;
+	border-color: white;
+	border-width: 2px;
+	padding-bottom: 20%;
+	margin-bottom: 20%;
+}
+#bordermaker{
+	border-right-style: dotted;
+	border-right-color: white;
+	border-right-width: 2px;
+}
+#bordermaker2{
+	border-left-style: dotted;
+	border-left-color: white;
+	border-left-width: 2px;
+}
+.row{
+	text-align: center;
+}
